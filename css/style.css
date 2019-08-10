@@ -1,0 +1,86 @@
+html,
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0%;
+	
+}
+.img{
+	height: 100%;
+	width: 100%;
+	background-image: url(../images/images.jpg);
+}
+.board {
+	background: red;
+	height:635px;
+	width: 635px;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin:auto;
+	position: absolute;
+	display: inline-block;
+}
+
+.topleft {
+	height: 12.5%;
+	width: 12.5%;
+	background: white;
+	display: inline-block;
+	float: left
+
+}
+.topleft1 {
+	height: 12.5%;
+	width: 12.5%;
+	background: black;
+	display: inline-block;
+	float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
